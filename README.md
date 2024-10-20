@@ -5,3 +5,7 @@ Author - Nandan
 <br>
 ## Overview
 The Caesar Cipher is one of the oldest known encryption techniques. It works by shifting the letters in the plaintext by a fixed number of positions in the alphabet. This project allows you to encrypt and decrypt messages sent to friends.
+
+## Features
+1. Supports custom shift keys for more flexible encryption/decryption.
+2. Includes basic error handling for non-alphabetic characters.
